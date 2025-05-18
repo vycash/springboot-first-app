@@ -37,7 +37,7 @@ apt install maven
 ```
 
 
-#### Next to run the app execute these command :
+#### Next to run the app execute these commands in your terminal :
 - to build :
 ```bash
 ./mvnw clean install
